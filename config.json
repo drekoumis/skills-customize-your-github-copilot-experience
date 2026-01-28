@@ -58,6 +58,20 @@
           "type": "csv"
         }
       ]
+    },
+    {
+      "id": "bomberman-game",
+      "title": "Bomberman Game",
+      "description": "Build a simplified version of the classic Bomberman game using Python",
+      "path": "assignments/bomberman-game",
+      "dueDate": "2026-02-28",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
